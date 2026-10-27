@@ -41,7 +41,7 @@ clients, déclinaisons automatiques, IA locale, Blender intégré.
 | **[Recettes de saison](https://axsomette.github.io/my-recipe/)** · [code](https://github.com/axsomette/my-recipe) | Web app installable qui calcule quand vos recettes sont de saison et compose les repas de la semaine. Hors ligne, sans compte, sans serveur. |
 | **[MonBudget](https://axsomette.github.io/)** · [code](https://github.com/axsomette/axsomette.github.io) | Application web progressive de gestion de budget : dépenses, simulateur, analyses visuelles. 100 % locale. |
 | **Pauline Labat Photographie** | Portfolio sur mesure pour une photographe, galeries thématiques et back-office Drupal autonome. |
-| **[Mon portfolio](https://axsomette.github.io/lucas-jimenez-boulot/)** · [code](https://github.com/axsomette/lucas-jimenez-boulot) | Astro 5, TypeScript, animations Motion One et GSAP, et une identité dessinée de A à Z. |
+| **[Mon portfolio](https://axsomette.github.io/lucas-jimenez-boulot/)** · [code](https://github.com/axsomette/lucas-jimenez-boulot) | Astro, TypeScript, MDX et CSS natif, avec une identité dessinée de A à Z (logo L·J, charte, animations). |
 
 ## Mon activité
 
