@@ -38,7 +38,8 @@ dans une suite. Ce que j'y ai ajouté :
 - la **sécurité** : failles corrigées ou évaluées une par une, verrou réseau, apps hors ligne par défaut ;
 - une **reprise automatisée chaque semaine**, testée (plus de 60 000 tests) et publiée en quelques heures.
 
-→ [Voir le dépôt](https://github.com/axsomette/lucraft-releases)
+→ [Voir le dépôt](https://github.com/axsomette/lucraft-releases) ·
+[La page du projet](https://axsomette.github.io/lucas-jimenez-boulot/lucraft/)
 
 ## Autres projets
 
