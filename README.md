@@ -18,18 +18,18 @@ côté client avec **React, Astro et TypeScript**.
 L'IA ne code pas à ma place : elle me rend **plus rapide, plus exigeant et plus ambitieux**. Je garde la main
 sur l'architecture, la qualité et chaque ligne qui part en production, et je délègue à Claude ce qui me
 ralentissait. Résultat : des projets qu'un développeur seul n'aurait pas tentés il y a deux ans, comme
-**Lucraft**, ma suite de 21 apps créatives pilotées par Claude.
+**Lucraft**, ma suite de 22 apps créatives pilotées par Claude.
 
 <img src="assets/stack.svg" alt="Drupal, PHP, Symfony, Node.js, React, Astro, TypeScript, Rust, SQL, Docker, Next.js, Payload, Figma, Claude et MCP" width="100%">
 
 ## Projet phare
 
 <a href="https://github.com/axsomette/lucraft-releases">
-  <img src="assets/lucraft-card.svg" alt="Lucraft : vingt et une apps créatives pour Mac, pilotées par Claude" width="100%">
+  <img src="assets/lucraft-card.svg" alt="Lucraft : vingt-deux apps créatives pour Mac, pilotées par Claude" width="100%">
 </a>
 
 **[Lucraft](https://github.com/axsomette/lucraft-releases)**, ma suite d'apps créatives pour Mac : photo,
-vecteur, vidéo, motion design, mise en page, son, DAO, textures 3D, animation, BIM… 13 apps disponibles et 8 en
+vecteur, vidéo, motion design, mise en page, son, DAO, textures 3D, animation, BIM… 13 apps disponibles et 9 en
 bêta. J'ai repris des logiciels créatifs libres, je les ai renommés, sécurisés, reliés à Claude et réunis
 dans une suite. Ce que j'y ai ajouté :
 
