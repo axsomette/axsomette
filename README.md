@@ -45,6 +45,7 @@ dans une suite. Ce que j'y ai ajouté :
 
 | | |
 |---|---|
+| **[Ludothèque](https://axsomette.github.io/ma-ludotheque-ps/)** · [code](https://github.com/axsomette/ma-ludotheque-ps) | Ma collection de jeux PS5, PS4 et PS3 physiques : une photo de la jaquette, le jeu est retrouvé sur IGDB et rangé dans un boîtier 3D modélisé dans Blender, qui s'ouvre sur son disque. React, Three.js, Supabase. [L'article](https://axsomette.github.io/lucas-jimenez-boulot/blog/ludotheque-jeux-playstation-3d/) |
 | **[Recettes de saison](https://axsomette.github.io/my-recipe/)** · [code](https://github.com/axsomette/my-recipe) | Web app installable qui calcule quand vos recettes sont de saison et compose les repas de la semaine. Hors ligne, sans compte, sans serveur. |
 | **[MonBudget](https://axsomette.github.io/)** · [code](https://github.com/axsomette/axsomette.github.io) | Application web progressive de gestion de budget : dépenses, simulateur, analyses visuelles. 100 % locale. |
 | **Pauline Labat Photographie** | Portfolio sur mesure pour une photographe, galeries thématiques et back-office Drupal autonome. |
